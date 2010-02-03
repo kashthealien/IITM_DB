@@ -1,0 +1,4 @@
+1.> cd into the src directory
+2.> type make
+3.> cd ../bin directory from src
+4.> type ./iitmdatabase 
